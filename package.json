@@ -18,6 +18,10 @@
   ],
   "author": "Ashith VL",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashithvl/js-quotes-api.git"
+  },
   "devDependencies": {
     "@babel/cli": "^7.21.5",
     "@babel/core": "^7.22.1",
