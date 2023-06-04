@@ -1,6 +1,6 @@
 {
   "name": "@ashithvl/quotes-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of quotes",
   "main": "index.js",
   "module": "src/index.js",
